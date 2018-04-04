@@ -4,8 +4,8 @@ A wheeled robot that interprets G-code to draw images, may or may not include me
 
 ## Summary
 
--this project will:
--create a vector tracing of an image
+This project will:
+- create a vector tracing of an image
 - convert the vector drawing to gcode.
 - store gcode on a sd card 
 - set the starting point as the origin
