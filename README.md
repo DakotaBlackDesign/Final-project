@@ -18,7 +18,7 @@ This project will:
 
 ## Component Parts
 
-- the base of the robot will be an adafruit kit, with:
+The base of the robot will be an adafruit kit, with:
 - geared dc motors for the wheels
 - a servo to raise and lower the pen
 - a motorshield to run the dc motors
