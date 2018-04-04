@@ -35,7 +35,7 @@ keeping track of the wheels and moving the robot accurately and tracking the mov
 ## Timeline
 
 - Week 1: Write proposal, basic prototype
-- Week 2: wheel tracking and postion tracking
+- Week 2: pen up & down, wheel tracking, postion tracking
 - Week 3: gcode from sd card 
 - Week 4: fine tune!
 - Week 5: Present!
