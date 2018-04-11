@@ -46,4 +46,6 @@ keeping track of the wheels and moving the robot accurately and tracking the mov
   
   http://www.instructables.com/id/Arduino-Drawing-Robot/
   
+  https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial?view=all
+  
  ![pinout](pinout.png)
