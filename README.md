@@ -45,3 +45,5 @@ keeping track of the wheels and moving the robot accurately and tracking the mov
   http://reprap.org/wiki/Arduino_GCode_Interpreter
   
   http://www.instructables.com/id/Arduino-Drawing-Robot/
+  
+ ![pinout](img/pinout.jpg)
