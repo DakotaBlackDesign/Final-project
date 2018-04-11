@@ -46,4 +46,4 @@ keeping track of the wheels and moving the robot accurately and tracking the mov
   
   http://www.instructables.com/id/Arduino-Drawing-Robot/
   
- ![pinout](pinout.jpg)
+ ![pinout](pinout.png)
